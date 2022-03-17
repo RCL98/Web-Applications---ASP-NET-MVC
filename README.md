@@ -1,2 +1,2 @@
-# Web-Applications---ASP-NET-MVC
+# SalonTatuaje - Web-Applications---ASP-NET-MVC
 Proiect Dezvoltarea Aplicatiilor Web
